@@ -1,0 +1,13 @@
+base
+plyr
+knitr
+lubridate
+ggplot2
+scales
+reshape2
+R.methodsS3
+R.oo
+R.utils
+data.table
+dplyr
+stringr
